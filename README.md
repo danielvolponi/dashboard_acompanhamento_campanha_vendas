@@ -1,4 +1,4 @@
-# Problema Prático Big Data - Daniel Volponi
+# Acompanhamento Campanha de Vendas
 
 ### Objetivo
 Este trabalho faz parte do processo seletivo para Data Analyst para a empresa Big Data. O objetivo deste trabalho é apresentar os resultados ao cliente em dashboard e um rápido sumário em formato de apresentação. 
